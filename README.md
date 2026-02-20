@@ -14,3 +14,5 @@ Maven maybe idk
 
 # Credits
 Thanks to [ennuo](https://github.com/ennuo) for making the super amazing [toolkit thing](https://github.com/ennuo/toolkit)
+
+Thanks to [tetra](https://github.com/FeTetra) and [claude](https://platform.claude.com/docs/en/about-claude/models/whats-new-claude-4-6) for helping me with this crap.
