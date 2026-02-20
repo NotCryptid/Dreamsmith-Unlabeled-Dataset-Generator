@@ -9,4 +9,5 @@ Just like uhh put some archived levels in input and run the bat file, should spi
 
 # Dependencies
 JDK 17 from Oracle
+
 Maven maybe idk
