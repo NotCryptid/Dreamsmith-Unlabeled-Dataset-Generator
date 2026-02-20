@@ -1,2 +1,5 @@
-# Dreamsmith-Unlabeled-Dataset-Generator
-Unlabeled Dataset Generator for Dreamsmith
+# Usage
+Just like uhh put some archived levels in input and run the bat file, should spit out some jsons in output.
+
+> [!WARNING]
+> This shit is like super storage hungry so 1000 levels will take up like 25gb.
