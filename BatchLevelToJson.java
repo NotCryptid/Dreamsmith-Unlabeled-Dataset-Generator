@@ -71,13 +71,13 @@ public class BatchLevelToJson {
 
         if (chunkIndex == 0) return null;
 
-        System.out.println("  Reassembled " + chunkIndex + " chunk(s)");
+        System.out.println("  Reassembled " + chunkIndex + " chunk(s);");
         return assembled.toByteArray();
     }
 
     public static void main(String[] args) {
-        File inputDir = new File("C:\\Users\\crypt\\Downloads\\Dreamsmith Dataset Generator\\input");
-        File outputDir = new File("C:\\Users\\crypt\\Downloads\\Dreamsmith Dataset Generator\\output");
+        File inputDir = new File("input");
+        File outputDir = new File("output");
 
         if (!inputDir.exists()) {
             System.err.println("Input directory does not exist: " + inputDir.getAbsolutePath());
@@ -94,7 +94,8 @@ public class BatchLevelToJson {
             return;
         }
 
-        System.out.println("Found " + levelFolders.length + " level folder(s).\n");
+        System.out.println("Found " + levelFolders.length + " level folder(s).
+");
 
         int success = 0, failed = 0;
 
