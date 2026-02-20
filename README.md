@@ -11,3 +11,6 @@ Just like uhh put some archived levels in input and run the bat file, should spi
 JDK 17 from Oracle
 
 Maven maybe idk
+
+# Credits
+Thanks to [ennuo](https://github.com/ennuo) for making the super amazing [toolkit thing](https://github.com/ennuo/toolkit)
